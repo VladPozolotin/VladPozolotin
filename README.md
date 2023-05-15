@@ -2,7 +2,7 @@
 Я **Влад Позолотин**, начинающий java-разработчик
 ## Мои навыки
 * Java. Репозиторий с дипломной работой можно найти [здесь](https://github.com/VladPozolotin/HwDiplom). Рубрикатор по выполненным домашним работам во время прохождения курса **"Java-разработка для начинающих"** — [здесь](https://github.com/VladPozolotin/VladPozolotin/blob/main/HOMEWORKS.md).
-## Мои сертиификаты
+## Мои сертификаты
 * Java [(pdf)](./certs/java-for-beginners.pdf)
 
 Обратная связь — https://t.me/WhitePolarFoxx
